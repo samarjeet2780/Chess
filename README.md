@@ -15,7 +15,7 @@ Follow these steps to set up and run the chess game:
 - Clone the repository to your local machine using:
 
   ```bash
-  git clone <repository-url>
+  git clone <https://github.com/samarjeet2780/Chess.git>
   ```
 Or download the repository as a ZIP file and extract it.
 
